@@ -1,0 +1,6 @@
+
+{
+  "name": "contact-hub",
+  "description": "A professional-grade contact management system for organizing phone and fax numbers with advanced search, city-based filtering, and CSV export capabilities.",
+  "requestFramePermissions": []
+}
